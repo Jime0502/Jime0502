@@ -38,7 +38,7 @@
 
 <img align="left" alt="Git" height="36px" width="66px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="padding-right:10px;" />
 
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" height="36px" width="66px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" height="36px" width="66px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="padding-right:10px;" />
 
