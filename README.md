@@ -1,4 +1,4 @@
-# Hello and welcome, my name is Albert Jimenez 👋 
+# 🔰Hello and welcome, my name is Albert Jimenez🔰  
 
 
 ## Currently a student at Broward College 
