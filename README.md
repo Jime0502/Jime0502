@@ -26,8 +26,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" height="46px" width="76px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="padding-right:10px; pointer-events: none;" />
-
 <img align="left" alt="Visual Studio Code" height="46px" width="76px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="padding-right:10px;"/>
 
 <img align="left" alt="HTML5" height="46px" width="76px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="padding-right:10px;" />    
@@ -77,7 +75,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Jime0502 github stats" src="https://github-readme-stats.vercel.app/api?username=JIme0502&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
