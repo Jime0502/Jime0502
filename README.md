@@ -36,19 +36,19 @@
 
 <img align="left" alt="MySQL" height="46px" width="76px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="padding-right:10px;" />  
 
-<img align="left" alt="Git" height="46px" width="76px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="padding-right:10px;" />  
+<img align="left" alt="Git" height="46px" width="76px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="padding-right:10px;" />  <br>
 
 <img align="left" alt="GitHub" height="46px" width="76px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" />  
 
 <img align="left" alt="Python" height="46px" width="76px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="padding-right:10px;" />  
 
-<img align="left" alt="Java" height="46px" width="76px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="padding-right:10px;" />  <br> 
+<img align="left" alt="Java" height="46px" width="76px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="padding-right:10px;" />  
 
 <img align="left" alt="C++" height="46px" width="76px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="padding-right:10px;" />  
 
 <img align="left" alt="C#" height="46px" width="76px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="padding-right:10px;" />  
 
-<img align="left" alt="eclipse" height="46px" width="76px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="padding-right:10px;" />  
+<img align="left" alt="eclipse" height="46px" width="76px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="padding-right:10px;" />  <br>
 
 <img align="left" alt="visual studios" height="46px" width="76px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="padding-right:10px;" />  
 
