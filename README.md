@@ -36,7 +36,7 @@
 
 <img align="left" alt="MySQL" height="46px" width="70px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="padding-right:10px;" />  
 
-<img align="left" alt="Git" height="46px" width="70px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="padding-right:10px;" />  <br>
+<img align="left" alt="Git" height="46px" width="70px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="padding-right:10px;" />  <br> <br>
 
 <img align="left" alt="GitHub" height="46px" width="70px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" />  
 
