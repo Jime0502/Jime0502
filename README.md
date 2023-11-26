@@ -54,7 +54,7 @@
 
 <img align="left" alt="Pycharm" height="46px" width="96px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" style="padding-right:10px;" />  
 
-<img align="left" alt="terminal" height="46px" width="96px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="padding-right:10px;" />  
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
 
 <img align="left" alt="intellijIdea" height="46px" width="96px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" style="padding-right:10px;" />  
 
