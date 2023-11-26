@@ -48,7 +48,7 @@
 
 <img align="left" alt="C#" height="46px" width="70px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="padding-right:10px;" />  
 
-<img align="left" alt="eclipse" height="46px" width="70px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="padding-right:10px;" />  <br>
+<img align="left" alt="eclipse" height="46px" width="70px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="padding-right:10px;" />  <br> <br>
 
 <img align="left" alt="visual studios" height="46px" width="70px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="padding-right:10px;" />  
 
