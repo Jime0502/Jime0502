@@ -54,13 +54,13 @@
 
 <img align="left" alt="Pycharm" height="46px" width="76px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" style="padding-right:10px;" />  
 
-<img align="left" alt="terminal" height="46px" width="76px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="padding-right:10px;" />  
+<img align="left" alt="terminal" height="46px" width="76px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="padding-right:1px;" />  
 
-<img align="left" alt="intellijIdea" height="46px" width="76px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" style="padding-right:10px;" />  
+<img align="left" alt="intellijIdea" height="46px" width="76px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" style="padding-right:1px;" />  
 
-<img align="left" alt="MacOS" height="46px" width="76px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="padding-right:10px;" />  
+<img align="left" alt="MacOS" height="46px" width="76px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="padding-right:1px;" />  
 
-<img align="left" alt="windows" height="46px" width="76px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="padding-right:10px;" />  
+<img align="left" alt="windows" height="46px" width="76px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="padding-right:1px;" />  
 
 
 
