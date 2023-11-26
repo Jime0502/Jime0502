@@ -30,11 +30,11 @@
 
 <img align="left" alt="HTML5" height="46px" width="96px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="padding-right:10px;" />    
 
-<img align="left" alt="CSS3" height="46px" width="76px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;" />  
+<img align="left" alt="CSS3" height="46px" width="96px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;" />  
 
-<img align="left" alt="JavaScript" height="46px" width="76px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="padding-right:10px;" /> 
+<img align="left" alt="JavaScript" height="46px" width="96px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="padding-right:10px;" /> 
 
-<img align="left" alt="MySQL" height="46px" width="76px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="padding-right:10px;" />  
+<img align="left" alt="MySQL" height="46px" width="96px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="padding-right:10px;" />  
 
 <img align="left" alt="Git" height="46px" width="76px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="padding-right:10px;" />  <br> <br>
 
