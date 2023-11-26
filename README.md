@@ -46,6 +46,14 @@
 
 <img align="left" alt="C++" height="36px" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="padding-right:10px;" />  
 
+<img align="left" alt="C#" height="36px" width="66px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="padding-right:10px;" />  
+
+<img align="left" alt="eclipse" height="36px" width="66px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="padding-right:10px;" />  
+
+<img align="left" alt="visual studios" height="36px" width="66px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="padding-right:10px;" />  
+
+<img align="left" alt="Pycharm" height="36px" width="66px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" style="padding-right:10px;" />  
+
 
 
 <br />
