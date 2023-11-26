@@ -4,11 +4,11 @@
 ## Currently a student at Broward College 
 
 - 📜 I'm obtaining my A.S Degree in Computer Programming and Analysis
-- 🐊 I will be attending the University of Florida for Fall of 25' 
+- 🐊 I will be attending the University of Florida in Fall of 25' 
 - 👨🏻‍💻 I am Currently a Machine Learning Research Assitant for Broward College
-- 🥅 2024 Goals: Complete my A.S. Degree with a 3.75gpa
-- 🚴🏻‍♂️ Fun fact: Enjoy riding down the boardwalk of Hollywood Beach
-- 🎮 I also enjoy Video Games whenever ONLY in between semesters
+- 🥅 2024 Goals: Complete my A.S. Degree with a 3.75 GPA
+- 🚴🏻‍♂️ Fun fact: I Enjoy riding down the boardwalk of Hollywood Beach, FL
+- 🎮 I also enjoy Video Games casually ONLY in between semesters
 
 ### Connect with me:
 
