@@ -60,6 +60,10 @@
 
 <img align="left" alt="MacOS" height="36px" width="66px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="padding-right:10px;" />  
 
+<img align="left" alt="windows" height="36px" width="66px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="padding-right:10px;" />  
+
+
+
 
 
 <br />
